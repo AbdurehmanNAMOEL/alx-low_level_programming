@@ -1,6 +1,6 @@
 #include <stdio.h>
-int main(void)
-{
+int main(void){
+    
     _putchar('-');
     _putchar('a');
     _putchar('b');
